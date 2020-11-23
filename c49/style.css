@@ -1,0 +1,19 @@
+h1 {
+   color : blue;
+}
+
+.header {
+    background-color:orange ;
+    display : flex;
+    justify-content:  center;
+}
+.games{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
